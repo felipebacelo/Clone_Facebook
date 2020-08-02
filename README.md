@@ -27,8 +27,11 @@ Para o desenvolvimento desta UI foram utilizadas as seguintes ferramentas:
 
 Seu desenvolvimento foi realizado basicamente em uma aplicação em HTML e CSS puro.
 
+### Demo
 
-* __Versão Computer__
+![GIF](https://github.com/felipebacelo/Clone_Facebook/blob/master/demo.gif)
+
+* __Versão Desktop__
 
 ![PRINT_COMPUTER](https://github.com/felipebacelo/Clone_Facebook/blob/master/images/printcomputer.png)
 
