@@ -26,7 +26,7 @@ Para o desenvolvimento desta UI foram utilizadas as seguintes ferramentas:
 * CSS
 
 Seu desenvolvimento foi realizado basicamente em uma aplicação em HTML e CSS puro.
-
+***
 ### Demo
 
 ![GIF](https://github.com/felipebacelo/Clone_Facebook/blob/master/demo.gif)
