@@ -19,7 +19,7 @@ Exercitar os seguintes conceitos:
 ***
 ### Desenvolvimento
 
-Para o desenvolvimento desta UI foram utilizadas as seguintes ferramentas:
+Para o desenvolvimento desta UI foram utilizadas as seguintes tecnologias:
 
 * Visual Studio Code
 * HTML
